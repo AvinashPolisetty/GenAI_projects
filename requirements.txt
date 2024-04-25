@@ -7,3 +7,15 @@ fastapi
 langserve
 uvicorn
 google-generativeai
+bs4
+pypdf
+chromadb
+faiss-cpu
+groq
+cassio
+beautifulsoup4
+langchain-groq
+wikipedia
+arxiv
+langchainhub
+langchain
